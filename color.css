@@ -1,0 +1,10 @@
+body{
+    background-color: #010101;
+    text-align: center;
+}
+.hole {
+    align-items: center;
+    font-style: italic;
+    color: mediumvioletred;
+    font-size: larger;
+}
